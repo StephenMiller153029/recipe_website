@@ -1,0 +1,17 @@
+.headerText, .smallText {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(74, 173, 61);
+}
+
+.smallText {
+    font-size: 20px;
+    list-style-position:inside;
+}
+
+.headerText {
+    font-size: 40px;
+}
