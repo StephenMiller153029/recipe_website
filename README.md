@@ -1,1 +1,1 @@
-# This is a simple HTML only website with two total recipes including ingredients, steps, and images. The site has 3 total pages including the main index. The non-main pages have each have a button redirecting to the main page as well.
+# This is a simple HTML only website with two total recipes including ingredients, steps, and images. The site has 3 total pages including the main index. The non-main pages each have a button redirecting to the main page as well.
